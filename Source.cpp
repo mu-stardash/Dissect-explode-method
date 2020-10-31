@@ -1,4 +1,9 @@
-﻿#include <iostream>
+/*
+* Метод рассечения-разнесения данных
+* Ефимова Дарья, 22205. 29.10.2020
+*/
+
+#include <iostream>
 #include <fstream>
 #include <stdlib.h>
 #include <cstring>
